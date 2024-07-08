@@ -14,25 +14,31 @@ Flint provides the `addRoute` function to effortlessly define routes. It takes f
 Here's an example demonstrating how to map the root URL (/) to the index method of the HomeController:
 
 Use code with caution.
-content_copy
+```sh
 addRoute('home', '/', 'App\Controllers\HomeController', 'index');
+```
+
+---
 
 
 Similarly, you can map the path `/office` to the index method of the OfficeController:
-
+```sh
 addRoute('office_home', '/office', 'App\Controllers\OfficeController', 'index');
+```
 
+---
 
 ### URI Parameters
 
 Flint allows you to capture dynamic segments in URIs using curly braces {}. These segments act as parameters that are passed to the corresponding controller method.
 
 For instance, the following route definition captures any value after `/office/` as the `id` parameter and passes it to the `show` method of the OfficeController:
-
+```sh
 addRoute('office_show', '/office/{id}', 'App\Controllers\OfficeController', 'show');
-
+```
 
 In this example, a request to `/office/123` would match the `office_show` route, and the `show` method would receive the value `123` as the `id` parameter.
+---
 
 ### Advanced Features
 
