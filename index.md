@@ -1,5 +1,15 @@
 # Flint Framework Documentation
 
+## Table of Contents
+
+- [Introduction](#introduction)
+- [Features](#features)
+- [Installation](installation.md)
+- [Requirements](#requirements)
+- [Server](#server)
+
+---
+
 ## Simplify Everything with a Single Click
 
 *After the revolution of artificial intelligence, we created Flint with the future in mind. Our goal was to eliminate unnecessary complexities found in older frameworks, creating a 'one-click-framework.' This means you can add any package or functionality with a single click or just one line of code, allowing developers to focus on building new features. Flint empowers developers by minimizing repetitive tasks and seamlessly integrating existing solutions from the internet. This simplicity and efficiency make Flint truly special.*
