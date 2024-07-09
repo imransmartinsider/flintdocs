@@ -1,3 +1,13 @@
+## Table of Contents
+
+- [Home](index.md)
+- [Installation](installation.md)
+- [Controllers](controller.md)
+- [Routing](routing.md)
+- [Helpers](helpers.md)
+- [Contribution](contribution.md)
+
+---
 
 # Controllers
 
@@ -112,7 +122,4 @@ This method simplifies API response handling by converting arrays to JSON format
 Flint controllers provide structured control over application logic, seamlessly integrating with views or facilitating API responses through JSON. Organize controllers in the app/controllers directory and utilize PHP features to build scalable web applications.
 
 For advanced techniques and further integration options, refer to PHP documentation and Flint framework resources.
-```
-
----
 

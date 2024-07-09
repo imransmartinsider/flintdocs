@@ -1,3 +1,14 @@
+## Table of Contents
+
+- [Home](index.md)
+- [Installation](installation.md)
+- [Controllers](controller.md)
+- [Routing](routing.md)
+- [Helpers](helpers.md)
+- [Contribution](contribution.md)
+
+---
+
 ## Flint PHP Framework: Routing
 
 Routing in Flint is a powerful mechanism for defining URL patterns and associating them with specific controller actions. This streamlined approach makes it easy to structure your application's URL handling.

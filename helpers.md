@@ -1,3 +1,14 @@
+## Table of Contents
+
+- [Home](index.md)
+- [Installation](installation.md)
+- [Controllers](controller.md)
+- [Routing](routing.md)
+- [Helpers](helpers.md)
+- [Contribution](contribution.md)
+
+---
+
 # Helpers
 
 In the Flint PHP framework, helpers provide a convenient way to encapsulate and reuse custom functions and framework-related functionalities. Here's how you can effectively use helpers within your project:
@@ -66,6 +77,3 @@ Flint's helper system allows for encapsulating custom functions and accessing fr
 For more information on creating and utilizing helpers effectively, refer to PHP's documentation and additional resources specific to the Flint framework.
 
 
-```
-
----

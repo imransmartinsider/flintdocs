@@ -1,3 +1,13 @@
+## Table of Contents
+
+- [Home](index.md)
+- [Installation](installation.md)
+- [Controllers](controller.md)
+- [Routing](routing.md)
+- [Helpers](helpers.md)
+- [Contribution](contribution.md)
+
+---
 
 # Installation
 
