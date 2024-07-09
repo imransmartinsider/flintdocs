@@ -12,6 +12,7 @@
 # Installation
 
 ## You can install the project with the following command:
+
 ```sh
 composer create-project imransmartins/my-flint my-custom-app
 ```
@@ -33,5 +34,7 @@ We have provided our own server to run the application. On the command prompt, t
 ```sh
 php server.php
 ```
+
+---
 
 And run your application server.
