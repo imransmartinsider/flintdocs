@@ -70,8 +70,6 @@ Modify these functions only if you fully understand their implications on your p
 
 ## Conclusion
 
-Framework-related helpers are located in the helpers/framework directory. These functions provide additional functionalities specific to the framework. While you can modify or extend these functions, exercise caution as changes may affect core framework behavior:
-
 Flint's helper system allows for encapsulating custom functions and accessing framework-related functionalities conveniently. By organizing custom and framework helpers in designated directories, you enhance code maintainability and facilitate efficient application development.
 
 For more information on creating and utilizing helpers effectively, refer to PHP's documentation and additional resources specific to the Flint framework.
