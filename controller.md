@@ -67,7 +67,7 @@ This flexibility accommodates diverse application needs.
 
 ## Rendering Views
 
-Views are typically stored in the views directory and can be rendered using the view function:
+Views are typically stored in the app/views directory and can be rendered using the view function:
 
 ```sh
 public function index()
